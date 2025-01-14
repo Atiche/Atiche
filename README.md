@@ -27,13 +27,13 @@
 
 ## ⚡ Technologies
 
-![Python]((https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python))
-![Django](https://img.shields.io/badge/-Django-blue?style=for-the-badge&logo=django)
-![Javascript](https://img.shields.io/badge/-javascript-orange?style=for-the-badge&logo=javascript)
+![Python]((https://img.shields.io/badge/-Python-white?style=flat-square&logo=python))
+![Django](https://img.shields.io/badge/-Django-blue?style=flat-square&logo=django)
+![Javascript](https://img.shields.io/badge/-javascript-orange?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-Postgre%20SQL-AFEEEE?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-Postgre%20SQL-AFEEEE?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
