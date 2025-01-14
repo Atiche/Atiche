@@ -27,7 +27,7 @@
 
 ## ⚡ Technologies
 
-![Python]((https://img.shields.io/badge/-Python-white?style=flat-square&logo=python))
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-blue?style=flat-square&logo=django)
 ![Javascript](https://img.shields.io/badge/-javascript-orange?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
