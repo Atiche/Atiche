@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a Project in Django and PostgreSQL and another Project with Redis, PostgreSQL and Django:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atiche&repo=UPIT)](https://github.com/Atiche/UPIT)
 
 ## Follow Me
 
