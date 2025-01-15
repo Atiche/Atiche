@@ -10,18 +10,11 @@
 
 [![ReadMe Card]()
 
-<p> 
-📫  Born in Russia
-<br>
-
-<hr>
-
 ## Follow Me
 
 [![Gmail Badge]()
 [![Linkedin Badge]()
-[![GitHub]()
-[![Twitter Badge]()
+[![GitHub](https://github.com/Atiche)
 
 <hr>
 
