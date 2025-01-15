@@ -12,8 +12,6 @@
 
 <h2>Follow Me</h2>
 
-[![Gmail Badge]()
-[![Linkedin Badge]()
 <a href = "https://github.com/Atiche"></a>
 
 <h2>⚡ Technologies</h2>
