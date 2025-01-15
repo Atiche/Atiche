@@ -8,8 +8,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atiche&repo=UPIT)](https://github.com/Atiche/UPIT)
 
-[![ReadMe Card]()
-
 ## Follow Me
 
 [![Gmail Badge]()
