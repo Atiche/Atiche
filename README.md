@@ -1,8 +1,8 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
-- 🌱 I’m currently learning Web Development Technologies in Backend 
+<p>- 🌱 I’m currently learning Web Development Technologies in Backend </p>
 
-🚀 Some of my main projects:
+<p>🚀 Some of my main projects:</p>
 
 - 🔭 I’m currently working on a Project in Django and PostgreSQL and another Project with Redis, PostgreSQL and Django:
 
@@ -10,15 +10,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Atiche&repo=UPIT&theme=buefy" />
 </a>
 
-## Follow Me
+<h2>Follow Me</h2>
 
 [![Gmail Badge]()
 [![Linkedin Badge]()
-[![GitHub](https://github.com/Atiche)
+<a href = "https://github.com/Atiche"></a>
 
-<hr>
-
-## ⚡ Technologies
+<h2>⚡ Technologies</h2>
 
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-blue?style=flat-square&logo=django)
